@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "text": "Sensado de Temperature y humedad para Proyecto de Composta en Ciudad Juarez",
+      "chart": [
+        {
+          "name": "Temperature",
+          "series": [
+            {
+              "name": "2010",
+              "value": 7300000
+            },
+            {
+              "name": "2011",
+              "value": 8940000
+            },
+            {
+              "name": "2012",
+              "value": 5940100
+            }
+          ]
+        }
+      ],
+      "comments": [
+        {
+          "name": "Dr. Margez",
+          "text": "Excelente proyecto"
+        },
+        {
+          "name": "Ing Manuel Rodriguez",
+          "text": "El mismo porcentaje funciona para fresas?"
+        },
+        {
+          "name": "nuevo nombre",
+          "text": "Hola profesor"
+        },
+        {
+          "name": "nuevo nombre",
+          "text": "probando..."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Ahorro en sistema de riego con sensores de humedad",
+      "chart": [
+        {
+          "name": "Humidity",
+          "series": [
+            {
+              "name": "2010",
+              "value": 7870000
+            },
+            {
+              "name": "2011",
+              "value": 8270000
+            },
+            {
+              "name": "2012",
+              "value": 820000
+            }
+          ]
+        }
+      ],
+      "comments": [
+        {
+          "name": "Dr. Margez",
+          "text": "Excelente proyecto"
+        },
+        {
+          "name": "Ing Manuel Rodriguez",
+          "text": "El mismo porcentaje funciona para fresas?"
+        }
+      ]
+    }
+  ]
+}
